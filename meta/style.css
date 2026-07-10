@@ -69,7 +69,7 @@
     --bs-dark-border-subtle: #adb5bd;
     --bs-white-rgb: 255,255,255;
     --bs-black-rgb: 0,0,0;
-    --bs-font-sans-serif:,"Catull","SF UI Text","Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --bs-font-sans-serif: "SF UI Display SemiBold","SF UI Text","Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
     --bs-font-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
     --bs-gradient-blue: linear-gradient(180deg, #448AFF, #2962FF);
@@ -218,7 +218,7 @@ hr {
     font-weight: 500;
     line-height: 1.2;
     color: var(--bs-heading-color);
-    font-family: 'Catull',sans-serif;
+    font-family: 'SF UI Display SemiBold',sans-serif;
 }
 
 .h1,h1 {
@@ -272,7 +272,7 @@ hr {
 p {
     margin-top: 0;
     margin-bottom: 1rem;
-    font-family: var(--bs-body-font-family);
+    font-family: 'SF UI Text',sans-serif;
 }
 
 abbr[title] {
