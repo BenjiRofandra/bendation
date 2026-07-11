@@ -4,6 +4,6 @@
 Bendation is a Benji's fan website about place dedications, extras, and more in Bendation.
 
 ## How It's Made the website?
-I make the website design with [Bootstrap](https://getbootstrap.com) and stylized with a color of [Material Design 1](https://m1.material.io/style/color.html#color-color-palette).
+I make the website design with [Bootstrap](https://getbootstrap.com) and stylized with a color of [Material Design 1](https://m1.material.io/style/color.html#color-color-palette). Bootstrap Icons can be included [here](https://icons.getbootstrap.com).
 
 © 2012 - 2026 Benji
